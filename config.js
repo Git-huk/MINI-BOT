@@ -1,6 +1,6 @@
 /**
  * QUEEN-MINI Configuration
- * Copyright © 205 DarkSide Developers
+ * Copyright © 5 DarkSide Developers
  * Owner: DarkWinzo
  * GitHub: https://github.com/DarkWinzo
  */
